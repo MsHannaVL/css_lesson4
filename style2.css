@@ -17,7 +17,7 @@ p::first-letter {
 }
 #content {
     width: 520px;
-    height: 300px;
+    height: 240px;
     float: left;
     background-color: #FFF;
     box-sizing: border-box;
@@ -28,7 +28,7 @@ h3 {
 }
 #nav {
     width: 200px;
-    height: 300px;
+    height: 240px;
     float: left;
     background-color: #e7e7e7;
     text-align: justify;
